@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Passionate about building software and pixel art games.
 <!--
 **nihiluis/nihiluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
