@@ -1,3 +1,5 @@
+![decoration image](./bluehorizon.png)
+
 Passionate about building software and pixel art games.
 <!--
 **nihiluis/nihiluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Fun projects
+- [**Memoneo**](https://github.com/nihiluis/memoneo2): personal markdown note tool
+- [**Optieat**](https://github.com/nihiluis/optieat): helper for creating healthy recipes
+- **Unnamed game project**
