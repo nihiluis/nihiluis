@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 # Fun projects
 - [**Memoneo**](https://github.com/nihiluis/memoneo2): personal markdown note tool
-- [**Optieat**](https://github.com/nihiluis/optieat): helper for creating healthy recipes
+- [**Optieat**](https://app.nutri.nihiluis.com): helper for creating healthy recipes
 - **Unnamed game project**
+
+# Legacy things
+- [**Archstack**](https://github.com/nihiluis/archstack): IT asset management demo
