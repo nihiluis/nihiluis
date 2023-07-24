@@ -7,7 +7,7 @@
 
 # Public (side) projects
 - [**Memoneo**](https://github.com/nihiluis/memoneo2): CLI to sync markdown notes to database (node.js, Go Echo, GraphQL Hasura, Next)
-- **Nutri** [Demo](https://app.nutri.nihiluis.com): helper for creating healthy recipes based on nutrient data (node.js, GraphQL Pothos + Prisma, Next)
+- **Nutri** [Demo](https://app.nutri.demo.nihiluis.com): helper for creating healthy recipes based on nutrient data (node.js, GraphQL Pothos + Prisma, Next)
 - **Product review dashboard** [Demo](https://pradiego.vercel.app): dashboard to visualize user feedback from product reviews aggregated based on transformer models (Prisma, Next, 🤗 Transformers)
 - **Legal Writer** [Demo](https://legalwriter.pages.dev/main?dp=7): supports law students to learn the german appraisal style with ML model classifications (Flask, TorchServe, 🤗 Transformers, React)
 ## Demo auth access (in case its needed)
