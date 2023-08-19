@@ -10,6 +10,7 @@
 - **Nutri** [Demo](https://app.nutri.demo.nihiluis.com): helper for creating healthy recipes based on nutrient data (node.js, GraphQL Pothos + Prisma, Next)
 - **Product review dashboard** [Demo](https://pradiego.vercel.app): dashboard to visualize user feedback from product reviews aggregated based on transformer models (Prisma, Next, 🤗 Transformers)
 - **Legal Writer** [Demo](https://legalwriter.pages.dev/main?dp=7): supports law students to learn the german appraisal style with ML model classifications (Flask, TorchServe, 🤗 Transformers, React)
+- [**OpenAI web wrapper for learning**](https://github.com/nihiluis/conversational-learning): T3 stack web UI for wrapping OpenAI requests with a specific prompt
 ## Demo auth access (in case its needed)
 User: demo  
 Password: pandemonium99L$
